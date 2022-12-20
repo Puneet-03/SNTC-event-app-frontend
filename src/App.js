@@ -6,6 +6,7 @@ import { useState } from "react";
 import Modal from './components/modal'
 
 
+
 function App() {
   
   const [openModal, setOpenModal] = useState(false);
